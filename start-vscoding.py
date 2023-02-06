@@ -40,6 +40,8 @@
 # $ mv
 #? disk free | вывести информацию об объеме свободного пространства в каждом из смонтированных разделов
 # $ df
+#? determine the type of a file and its data | узнать тип данных, которые содержатся внутри файла
+# $ file
 
 ##########################*
 #TODO                                PYTHON
@@ -75,6 +77,7 @@ $ deactivate
 # $ pip list
 
 # $ pip freeze > requirements.txt
+# $ pip install -r requirements.txt
 
 ##########################*
 
@@ -85,6 +88,10 @@ $ deactivate
 ##########################*
 
 # $ pip install pygame
+
+##########################*
+
+# $ pip install arcade
 
 ##########################*
 
